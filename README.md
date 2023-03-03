@@ -32,10 +32,10 @@
 </div>
 
 <div align="center">
-    <a alt="LinkedIn" href="https://www.linkedin.com/in/fecamarg/"><img height="50" width="50" src="https://img.icons8.com/external-justicon-lineal-color-justicon/256/external-linkedin-social-media-justicon-lineal-color-justicon.png" target="_blank"></a>
-    <a alt="Instagram" href="https://www.instagram.com/felipe93.camargo/"><img height="50" width="50" src="https://img.icons8.com/external-justicon-lineal-color-justicon/256/external-instagram-social-media-justicon-lineal-color-justicon.png" target="_blank"></a>
-    <a alt="Youtube" href="https://www.youtube.com/channel/UCSRQa7jQVHZkitVjNkmckyg"><img height="50" width="50" src="https://img.icons8.com/external-justicon-lineal-color-justicon/256/external-youtube-social-media-justicon-lineal-color-justicon.png" target="_blank"></a>
-    <a alt="Gmail" href="mailto:felipe93.camargo@gmail.com"><img height="56" width="50" src="https://cdn-icons-png.flaticon.com/512/2875/2875394.png" target="_blank"></a>
+    <a alt="LinkedIn" href="https://www.linkedin.com/in/fecamarg/" target="_blank"><img height="50" width="50" src="https://img.icons8.com/external-justicon-lineal-color-justicon/256/external-linkedin-social-media-justicon-lineal-color-justicon.png"></a>
+    <a alt="Instagram" href="https://www.instagram.com/felipe93.camargo/" target="_blank"><img height="50" width="50" src="https://img.icons8.com/external-justicon-lineal-color-justicon/256/external-instagram-social-media-justicon-lineal-color-justicon.png"></a>
+    <a alt="Youtube" href="https://www.youtube.com/channel/UCSRQa7jQVHZkitVjNkmckyg" target="_blank"><img height="50" width="50" src="https://img.icons8.com/external-justicon-lineal-color-justicon/256/external-youtube-social-media-justicon-lineal-color-justicon.png"></a>
+    <a alt="Gmail" href="mailto:felipe93.camargo@gmail.com" target="_blank"><img height="56" width="50" src="https://cdn-icons-png.flaticon.com/512/2875/2875394.png"></a>
 </div><br><br>
 
 <div align="center">

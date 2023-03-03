@@ -47,7 +47,7 @@
 <div align="center">
     <img height="300" width="400" src="https://media.tenor.com/-p-p8MvwM3AAAAAM/dog-funny.gif"/>
     <br><br>
-Thanks for the visit! 🤓
+    <h3>Thanks for the visit! 🤓
 </div><br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=footer"/><br>

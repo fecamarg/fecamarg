@@ -27,7 +27,7 @@
 
 <div align="center" color="4682B4">
     <h3>
-    My social midia:
+    My social media:
     </h3>
 </div>
 

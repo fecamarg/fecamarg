@@ -29,11 +29,11 @@
 </div>
 
 <div align="center">
-    <a target="_blank" rel="external" href="https://www.linkedin.com/in/fecamarg/"><img height="50" width="50" src="https://img.icons8.com/external-justicon-lineal-color-justicon/256/external-linkedin-social-media-justicon-lineal-color-justicon.png" alt="LinkedIn"></a>
-    <a target="_blank" rel="external" href="https://www.instagram.com/felipe93.camargo/"><img height="50" width="50" src="https://img.icons8.com/external-justicon-lineal-color-justicon/256/external-instagram-social-media-justicon-lineal-color-justicon.png" alt="Instagram"></a>
-    <a target="_blank" rel="external" href="https://www.youtube.com/channel/UCSRQa7jQVHZkitVjNkmckyg"><img height="50" width="50" src="https://img.icons8.com/external-justicon-lineal-color-justicon/256/external-youtube-social-media-justicon-lineal-color-justicon.png"
+    <a href="https://www.linkedin.com/in/fecamarg/" target="_blank" rel="external"><img height="50" width="50" src="https://img.icons8.com/external-justicon-lineal-color-justicon/256/external-linkedin-social-media-justicon-lineal-color-justicon.png" alt="LinkedIn"></a>
+    <a href="https://www.instagram.com/felipe93.camargo/" target="_blank" rel="external"><img height="50" width="50" src="https://img.icons8.com/external-justicon-lineal-color-justicon/256/external-instagram-social-media-justicon-lineal-color-justicon.png" alt="Instagram"></a>
+    <a href="https://www.youtube.com/channel/UCSRQa7jQVHZkitVjNkmckyg" target="_blank" rel="external"><img height="50" width="50" src="https://img.icons8.com/external-justicon-lineal-color-justicon/256/external-youtube-social-media-justicon-lineal-color-justicon.png"
     alt="Youtube"></a>
-    <a target="_blank" rel="external" href="mailto:felipe93.camargo@gmail.com"><img height="56" width="50" src="https://cdn-icons-png.flaticon.com/512/2875/2875394.png" alt="Gmail"></a>
+    <a href="mailto:felipe93.camargo@gmail.com" target="_blank" rel="external"><img height="56" width="50" src="https://cdn-icons-png.flaticon.com/512/2875/2875394.png" alt="Gmail"></a>
 </div><br><br>
 
 <div align="center">

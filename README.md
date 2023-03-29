@@ -18,7 +18,7 @@
     <img align="center" alt="HTML" height="40" width="45" title="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="40" width="45" title="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="JavaScript" height="40" width="45" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="React" height="40" width="45" title="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<!--     <img align="center" alt="React" height="40" width="45" title="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
     <img align="center" alt="Java" height="40" width="45" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
     <img align="center" alt="Git" height="40" width="45" title="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     <img align="center" alt="Github" height="65" width="65" title="GitHub" src="https://img.icons8.com/plasticine/256/github-squared.png">
@@ -29,11 +29,11 @@
 </div>
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/fecamarg/" target="_blank" rel="external"><img height="50" width="50" src="https://img.icons8.com/external-justicon-lineal-color-justicon/256/external-linkedin-social-media-justicon-lineal-color-justicon.png" alt="LinkedIn"></a>
-    <a href="https://www.instagram.com/felipe93.camargo/" target="_blank" rel="external"><img height="50" width="50" src="https://img.icons8.com/external-justicon-lineal-color-justicon/256/external-instagram-social-media-justicon-lineal-color-justicon.png" alt="Instagram"></a>
+    <a href="https://www.linkedin.com/in/fecamarg/" target="_blank" rel="external"><img height="50" width="50" src="https://img.icons8.com/external-justicon-lineal-color-justicon/256/external-linkedin-social-media-justicon-lineal-color-justicon.png" alt="LinkedIn" title="LinkedIn"></a>
+    <a href="https://www.instagram.com/felipe93.camargo/" target="_blank" rel="external"><img height="50" width="50" src="https://img.icons8.com/external-justicon-lineal-color-justicon/256/external-instagram-social-media-justicon-lineal-color-justicon.png" alt="Instagram" title="Instagram"></a>
     <a href="https://www.youtube.com/channel/UCSRQa7jQVHZkitVjNkmckyg" target="_blank" rel="external"><img height="50" width="50" src="https://img.icons8.com/external-justicon-lineal-color-justicon/256/external-youtube-social-media-justicon-lineal-color-justicon.png"
-    alt="Youtube"></a>
-    <a href="mailto:felipe93.camargo@gmail.com" target="_blank" rel="external"><img height="56" width="50" src="https://cdn-icons-png.flaticon.com/512/2875/2875394.png" alt="Gmail"></a>
+    alt="Youtube" title="YouTube"></a>
+    <a href="mailto:felipe93.camargo@gmail.com" target="_blank" rel="external"><img height="56" width="50" src="https://cdn-icons-png.flaticon.com/512/2875/2875394.png" alt="Gmail" title="Gmail"></a>
 </div><br><br>
 
 <div align="center">

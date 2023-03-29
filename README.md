@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=header"/><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4682B4&size=35&center=true&vCenter=true&width=900&lines=Hello,+my+name+is+Felipe+Camargo.;I'm+from+Brazil.;I+am+a+Programming+Student.;Be+welcome+to+my+Github!+:%29)](https://git.io/typing-svg)<br><br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4682B4&size=35&center=true&vCenter=true&width=900&lines=Hello,+my+name+is+Felipe+Camargo.;I'm+from+Brazil.;I+am+a+Programming+Student.;Be+welcome+to+my+GitHub!+:%29)](https://git.io/typing-svg)<br><br>
 
 <div align="center">
   <a href="https://github.com/fecamarg">

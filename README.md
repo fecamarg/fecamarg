@@ -33,7 +33,7 @@
     <a href="https://www.instagram.com/felipe93.camargo/" target="_blank" rel="external"><img height="50" width="50" src="https://img.icons8.com/external-justicon-lineal-color-justicon/256/external-instagram-social-media-justicon-lineal-color-justicon.png" alt="Instagram" title="Instagram"></a>
     <a href="https://www.youtube.com/channel/UCSRQa7jQVHZkitVjNkmckyg" target="_blank" rel="external"><img height="50" width="50" src="https://img.icons8.com/external-justicon-lineal-color-justicon/256/external-youtube-social-media-justicon-lineal-color-justicon.png"
     alt="Youtube" title="YouTube"></a>
-    <a href="mailto:felipe93.camargo@gmail.com" target="_blank" rel="external"><img height="56" width="50" src="https://cdn-icons-png.flaticon.com/512/2875/2875394.png" alt="Gmail" title="Gmail"></a>
+    <a href="mailto:felipe93.camargo@gmail.com" target="_blank" rel="external"><img height="50" width="50" src="https://img.icons8.com/external-justicon-lineal-color-justicon/256/external-gmail-social-media-justicon-lineal-color-justicon.png" alt="Gmail" title="Gmail"></a>
 </div><br><br>
 
 <div align="center">
@@ -49,7 +49,3 @@
 </div><br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=footer"/><br>
-
-<div align="center">
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a>.</p>
-</div>

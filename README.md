@@ -11,7 +11,7 @@
 </div><br>
 
 <div align="center">
-    <h3>Studying in this moment:</h3>
+    <h3>Currently Student</h3>
 </div>
 
 <div align="center" valign="top">
@@ -25,7 +25,7 @@
 </div><br><br>
 
 <div align="center" color="4682B4">
-    <h3>My social media:</h3>
+    <h3>My Social Media</h3>
 </div>
 
 <div align="center">

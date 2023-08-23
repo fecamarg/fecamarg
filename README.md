@@ -19,6 +19,7 @@
     <img align="center" alt="CSS" height="40" width="45" title="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="JavaScript" height="40" width="45" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Java" height="40" width="45" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+    <img align="center" alt="Java" height="65" width="65" title="PHP" src="https://img.icons8.com/?size=512&id=ew5sPNbvz6Dw&format=png">
     <img align="center" alt="Java" height="65" width="45" title="MySQL" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Database-mysql.svg/424px-Database-mysql.svg.png">
     <img align="center" alt="Git" height="40" width="45" title="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     <img align="center" alt="Github" height="65" width="65" title="GitHub" src="https://img.icons8.com/plasticine/256/github-squared.png">

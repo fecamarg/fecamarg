@@ -3,14 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4682B4&size=35&center=true&vCenter=true&width=900&lines=Hello,+my+name+is+Felipe+Camargo.;I'm+from+Brazil.;I'm+a+Programming+Student.;Be+welcome+to+my+GitHub!+:%29)](https://git.io/typing-svg)<br><br>
 
 <div align="center">
-  <a href="https://github.com/fecamarg">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fecamarg&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <br><br>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fecamarg&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
-</div><br>
-
-<div align="center">
     <h3>Currently Student</h3>
 </div>
 
